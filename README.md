@@ -101,8 +101,6 @@ A comprehensive web-based platform developed for the Ethiopian Ministry of Innov
 
 <div align="center">
   <img src="assets/Screenshot_20250522-130303.jpg" width="180" style="border-radius: 12px; margin: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
-  <img src="assets/Screenshot_20250522-130447.jpg" width="180" style="border-radius: 12px; margin: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
-  <img src="assets/Screenshot_20250522-130504.jpg" width="180" style="border-radius: 12px; margin: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
   <img src="assets/Screenshot_20250522-130742.jpg" width="180" style="border-radius: 12px; margin: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
   <img src="assets/Screenshot_20250522-130758.jpg" width="180" style="border-radius: 12px; margin: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
 </div>
