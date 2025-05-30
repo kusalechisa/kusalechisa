@@ -27,10 +27,6 @@ Currently focused on building **Visit Ethiopia** – A tourism app built with Fl
 ---
 
 ### 📱 Visit Ethiopia
-<div align="center">
-  <img src="assets/Screenshot_20250523-010406.jpg" alt="Project Preview" style="border-radius: 12px; width: 375px; height: 667px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</div>
-
 A social media–inspired mobile app promoting Ethiopian tourism.
 
 #### ✨ Key Features
@@ -101,7 +97,6 @@ A comprehensive web-based platform developed for the Ethiopian Ministry of Innov
 
 <div align="center">
   <img src="assets/Screenshot_20250522-130303.jpg" width="180" style="border-radius: 12px; margin: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
-  <img src="assets/Screenshot_20250522-130742.jpg" width="180" style="border-radius: 12px; margin: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
   <img src="assets/Screenshot_20250522-130758.jpg" width="180" style="border-radius: 12px; margin: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
 </div>
 
