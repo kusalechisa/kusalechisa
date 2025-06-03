@@ -90,7 +90,7 @@ A comprehensive web-based platform developed for the Ethiopian Ministry of Innov
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusalechisa&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusalechisa&layout=compact&theme=radical&hide_border=true&count_private=true" width="48%" />
 </div>
 
 ## 📱 Visit Ethiopia App Showcase
