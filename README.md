@@ -60,7 +60,6 @@ A comprehensive web-based platform developed for the Ethiopian Ministry of Innov
 
 #### 🛠️ Tech Stack
 <div align="center">
-    <img src="assets/Screenshot_20250522-131256.jpg" alt="Banner" style="border-radius: 16px; width: 375px; height: 667px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -93,6 +92,7 @@ A comprehensive web-based platform developed for the Ethiopian Ministry of Innov
 ## 📱 Visit Ethiopia App Showcase
 
 <div align="center">
+      <img src="assets/Screenshot_20250522-131256.jpg" alt="Banner" style="border-radius: 16px; width: 375px; height: 667px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <img src="assets/Screenshot_20250522-130303.jpg" width="180" style="border-radius: 12px; margin: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
   <img src="assets/Screenshot_20250522-130758.jpg" width="180" style="border-radius: 12px; margin: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
 </div>
