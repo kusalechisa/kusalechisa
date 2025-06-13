@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 About Me
 
-> **Final Year Software Engineering Student** @ Haramaya University | **Full-Stack Developer** | **Flutter Enthusiast**
+> **Studied Software Engineering** @Haramaya University | **Full-Stack Developer** | **Flutter Enthusiast**
 
 Currently focused on building **Visit Ethiopia** – A tourism app built with Flutter and Firebase, exploring AI features, offline-first design, and Firebase Cloud Messaging.
 
